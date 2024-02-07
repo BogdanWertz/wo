@@ -1,2 +1,1 @@
-# wo
-To pierwsze repozytorium
+Komentarz do pakietu
