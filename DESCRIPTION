@@ -1,0 +1,12 @@
+Package: mojpakiet
+Title: Podstawowe Operacje na Liczbach
+Version: 0.0.0.9000
+Authors@R: 
+    person("Wojciech", "Ochal", , "wojciech.ochal@urk.edu.pl", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2387-5574"))
+Description: Dodaje i podnosi liczby do potęgi, mnoży, dzieli
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
