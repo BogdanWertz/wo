@@ -7,7 +7,10 @@
 konwersja_temp(temperatura_f)
 }
 \arguments{
-\item{temperatura_f}{}
+\item{temperatura_f}{temperatura w F}
+}
+\value{
+wektor o tej samej dlugosci jak temperatura
 }
 \description{
 Konwersja temperatury
